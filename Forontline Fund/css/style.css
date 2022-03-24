@@ -1,0 +1,61 @@
+body{
+    width: 800px;
+    margin: 20px auto;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgb(0, 0, 0);
+    font-family:Arial, Helvetica, sans-serif;
+}
+h1,h2,h3{
+    text-align: center;
+}
+main{
+    padding: 30px;
+}
+
+.userInformation{
+    display: grid;
+    grid-template-columns: 300px 250px 250px;
+    grid-gap: 5px;
+    grid-row-gap: 20px;
+    padding: 20px;
+}
+.items{
+    display: grid;
+    grid-template-columns: 300px 250px 250px;
+    grid-gap: 5px;
+    grid-row-gap: 20px;
+    padding: 20px;
+}
+
+div p{
+    line-height: 20px;
+    margin: 0px;
+    display: table-cell;
+    vertical-align: middle;
+}
+.checkout{
+    text-align: center;
+}
+.checkout input{  
+    width: 200px;
+    height: 40px;
+    font-weight: bolder;
+    font-size: 15px;
+    background-color: black;
+    color: white;
+}
+
+table{
+    width: 90%;
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+td,th{
+    border: 2px solid black;
+    height: 25px;
+    padding: 5px;
+}
+

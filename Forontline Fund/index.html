@@ -1,0 +1,84 @@
+<!-- Eman Abdeen -->
+<!-- 8783804 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Garage Sale</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script type="text/javascript" src="js/form.js"></script>
+
+    </script>
+</head>
+<body onload="LoadFunction()">
+    <header>
+        <h1>Conestoga Garage Sale </h1>
+        <h2>Raising money for The Forontline Fund</h2>
+    </header>
+    <main>
+        <section id="part1">
+            <!-- <h2>Thank you for your purchase!</h2>  in checkout -->
+        </section>
+        <section id="part2" >
+            <form action="process-form" method="post" name="garagSale" enctype="text/plain">
+                <div class="userInformation">
+                    <label for="uName">Name:</label>
+                    <input type="text" name="user_name" id="uName" placeholder="First Last" required onchange="UserNameValidation ();">
+                    <p style="color: red;font-size: x-small;" id="uNameMessage"></p> <!--space for error message -->
+                    
+                    <label for="uemail">Email:</label>
+                    <input type="email" name="user_email" id="uemail" placeholder="email@domain.com" required onchange="UserEmailValidation ();">
+                    <p style="color: red;font-size: x-small;" id="uEmailMessage"></p><!--space for error message -->
+                    
+                    <label for="cardnumber">Credit Card Number:</label>
+                    <input type="text" name="user_cardnumber" id="cardnumber" placeholder="eg: 4111-1111-1111-1111" onchange="CreditCardValidation ();">
+                    <p style="color: red;font-size: x-small;" id="cardNumberMessage"></p><!--space for error message -->
+                    
+                    <label for="expmonth">Credit Card Expiry Month:</label>
+                    <input type="text" name="card_expmonth" id="expmonth" placeholder="eg: NOV" title="JAN, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC" onchange="ExpMonthValidation ();">
+                    <p style="color: red;font-size: x-small;" id="expMonthMessage"></p><!--space for error message -->
+                    
+                    <label for="expyear">Credit Card Expiry Year:</label>
+                    <input type="text" name="card_expyear" id="expyear" placeholder="eg: 2022" title="not more than 3 yeas from current date" onchange="ExpYearValidation ();">
+                    <p style="color: red;font-size: x-small;" id="expYearMessage"></p><!--space for error message -->
+                </div>
+                <br>
+
+                <h3>Buy generously</h3>
+                
+                <div class="items">
+                    <label for="chain">Number of Keys Chain ($<span id="chain_price">5</span>)</label>
+                    <input type="text" name="chain" id="chain"  placeholder="0" onchange="itemValidation ('chain',0,'chainMessage');">
+                    <p style="color: red;font-size: x-small;" id="chainMessage"></p>
+
+                    <label for="shirts">Number of Shirts ($<span id="shirts_price">25</span>)</label>
+                    <input type="text" name="shirts" id="shirts"  placeholder="0" onchange="itemValidation ('shirts',1,'shirtsMessage');">
+                    <p style="color: red;font-size: x-small;" id="shirtsMessage"></p>
+
+                    <label for="pens">Number of Pens ($<span id="pens_price">2</span>)</label>
+                    <input type="text" name="pens" id="pens"  placeholder="0" onchange="itemValidation ('pens',2,'pensMessage');">
+                    <p style="color: red;font-size: x-small;" id="pensMessage"></p>
+
+                    <label for="cookies">Number of Cookies Bages ($<span id="cookies_price">10</span>)</label>
+                    <input type="text" name="cookies" id="cookies"  placeholder="0" onchange="itemValidation ('cookies',3,'cookiesMessage');">
+                    <p style="color: red;font-size: x-small;" id="cookiesMessage"></p>
+
+                    <label for="juice">Number of Juice Boxes ($<span id="juice_price">6</span>)</label>
+                    <input type="text" name="juice" id="juice" placeholder="0"  onchange="itemValidation ('juice',4,'juiceMessage');">
+                    <p style="color: red;font-size: x-small;" id="juiceMessage"></p>
+                </div>
+                <br>
+
+                <p class="checkout"><input type="Submit" value="Checkout" form="garagSale" onclick="checkout();"></p>
+                
+            </form>
+        </section>
+        <section id="part3">
+        </section>
+
+    </main>
+    
+</body>
+</html>
