@@ -176,7 +176,7 @@ a:focus {
         width: 100%;
         padding: 10px 20px;
         background: transparent !important;
-        border-bottom: 1px dashed rgba(256, 256, 256, .2);
+/*        border-bottom: 1px dashed rgba(256, 256, 256, .2);*/
         z-index: 9;
     }
     
@@ -248,7 +248,7 @@ a:focus {
     position: relative;
     width: 100%;
     margin-bottom: 90px;
-    padding: 90px 0 40px 0;
+    padding: 65px 0 0 0;
     overflow: hidden;
     /* background: linear-gradient(rgba(239, 35, 60, .95), rgba(239, 35, 60, .95)), url(../img/hero-bg.jpg); */
     background: linear-gradient(rgba(138, 1, 17, 0.95), rgba(239, 35, 60, .95)), url(../img/hero-bg.jpg);
@@ -269,6 +269,7 @@ a:focus {
 
 .hero .hero-image img {
     width: 1150px;
+    display: block;
 /*    max-height: 180%;---------------------------------------------------------------------------*/
 }
 
