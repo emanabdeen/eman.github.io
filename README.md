@@ -66,6 +66,22 @@ A full-stack e-commerce web application with RESTful APIs and responsive UI.
 
 ---
 
+### 🌐 Greeting API - Node.js/PostgreSQL Service
+> **Tech Stack:** Node.js, Express, PostgreSQL, Vercel
+
+A multilingual greeting API with time-of-day and tone customization, deployed on Vercel with Neon PostgreSQL.
+
+🔗 [View Repository](https://github.com/emanabdeen/API_NodeJS_Postrgres_Vercel)  
+🚀 [Live API](https://api-node-js-postrgres-vercel.vercel.app/api/Greetings)
+
+**Key Features:**
+- Dynamic greetings in English, Italian, and Spanish with formal/casual tones
+- PostgreSQL database hosted on Neon with pre-seeded data
+- RESTful endpoints for greeting generation and metadata retrieval
+- Full CI/CD deployment via Vercel
+
+---
+
 ## 📚 Education  
 **Advanced Diploma in Computer Programming & Analysis**  
 Conestoga College (Waterloo, ON) | **Graduated with High Distinction (GPA: 3.96/4.0)**  
