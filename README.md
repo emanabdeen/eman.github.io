@@ -71,8 +71,7 @@ A full-stack e-commerce web application with RESTful APIs and responsive UI.
 
 A multilingual greeting API with time-of-day and tone customization, deployed on Vercel with Neon PostgreSQL.
 
-🔗 [View Repository](https://github.com/emanabdeen/API_NodeJS_Postrgres_Vercel)  
-🚀 [Live API](https://api-node-js-postrgres-vercel.vercel.app/api/Greetings)
+🔗 [View Repository](https://github.com/emanabdeen/API_NodeJS_Postrgres_Vercel)
 
 **Key Features:**
 - Dynamic greetings in English, Italian, and Spanish with formal/casual tones
