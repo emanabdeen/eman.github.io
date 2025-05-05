@@ -5,7 +5,8 @@ I'm a **High Distinction graduate** in Computer Programming and Analysis from Co
 - **Backend Systems**: Building robust solutions with **C#**, **ASP.NET**, **SQL Server**, **Java**, and **Spring Boot**  
 - **Test Automation**: Developing efficient testing frameworks using **Selenium**, **RestSharp**, and **C#** in CI/CD pipelines  
 - **Full-Stack Development**: Creating **scalable web and mobile applications** with end-to-end functionality  
-I'm passionate about solving complex problems through **clean, maintainable code** and specialize in optimizing applications for **performance, scalability, and intuitive user experiences** — whether for enterprise systems, web platforms, or mobile solutions.
+I'm passionate about solving complex problems through **clean, maintainable code** and specialize in optimizing applications for **performance, scalability, and intuitive user experiences** — whether for enterprise systems, web platforms, or mobile solutions.  
+
 
 
 🔗 **Connect with me:**  
