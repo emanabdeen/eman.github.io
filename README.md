@@ -85,4 +85,4 @@ This project showcases practical application of domain-driven design, REST API d
 - 📧 Email: eng.eman77@gmail.com
 - 🌍 Location: Waterloo, Ontario
 
-Thank you for visiting my portfolio! Feel
+Thank you for visiting my portfolio! Feel free to explore my repositories and reach out for collaboration or opportunities.
