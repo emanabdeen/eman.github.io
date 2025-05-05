@@ -1,7 +1,14 @@
 # Eman Abdeen | Software Developer Portfolio
 
 👋 **About Me**  
-Hello! I'm a **High Distinction Computer Programming graduate** from Conestoga College, passionate about building scalable, efficient software solutions. My expertise spans **.NET, Java, Spring Boot, C#, SQL, and mobile development**, with hands-on experience in **RESTful APIs, CI/CD pipelines, and Agile methodologies**. I thrive on solving complex problems through clean, maintainable code, and my projects emphasize **scalability, performance optimization, and intuitive design**—whether for web, mobile, or enterprise systems.
+I'm a **High Distinction graduate** in Computer Programming and Analysis from Conestoga College, with **2 years of professional experience** bridging software development and quality assurance. My technical expertise focuses on:
+- **Backend Systems**: Building robust solutions with **C#**, **ASP.NET**, **SQL Server**, **Java**, and **Spring Boot**
+- **Test Automation**: Developing efficient testing frameworks using **Selenium**, **RestSharp**, and **C#** in CI/CD pipelines
+- **Full-Stack Development**: Creating **scalable web and mobile applications** with end-to-end functionality
+
+I'm passionate about solving complex problems through **clean, maintainable code** and specialize in optimizing applications for **performance, scalability, and intuitive user experiences** - whether for enterprise systems, web platforms, or mobile solutions.
+
+
 
 🔗 **Connect with me:**  
 <img src="https://img.icons8.com/fluent/24/000000/linkedin.png" alt="LinkedIn" width="22"/> **LinkedIn:** [linkedin.com/in/eman-abdeen](https://www.linkedin.com/in/eman-abdeen/)    
