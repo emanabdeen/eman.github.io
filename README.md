@@ -1,4 +1,4 @@
-# Eman Abdeen | Software Developer Portfolio
+# Eman Abdeen | Software Developer
 
 ## 👋 About Me  
 I'm a **High Distinction graduate** in Computer Programming and Analysis from Conestoga College, with **2 years of professional experience** bridging software development and quality assurance. I have hands-on experience building **automated testing frameworks (C#, Selenium)**, developing **mobile apps**  using **Java and Firebase**, and delivering **enterprise web solutions** using **ASP.NET** and **Spring Boot**.
