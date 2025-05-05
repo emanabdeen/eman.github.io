@@ -2,4 +2,5 @@ title: Eman abdeen
 logo: /assets/profile image.png
 description: Software Developer & QA Automation | Selenium, C#, .NET, JavaScript, SQL
 #show_downloads: true
+is_project_page: false
 theme: jekyll-theme-minimal
