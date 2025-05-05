@@ -4,8 +4,8 @@
 Hello! I'm a **High Distinction Computer Programming graduate** from Conestoga College, passionate about building scalable, efficient software solutions. My expertise spans **.NET, Java, Spring Boot, C#, SQL, and mobile development**, with hands-on experience in **RESTful APIs, CI/CD pipelines, and Agile methodologies**. I thrive on solving complex problems through clean, maintainable code, and my projects emphasize **scalability, performance optimization, and intuitive design**—whether for web, mobile, or enterprise systems.
 
 🔗 **Connect with me:**  
-<img src="https://img.icons8.com/fluent/24/000000/linkedin.png" alt="LinkedIn" width="22"/> **LinkedIn:** [www.linkedin.com/in/eman-abdeen/](https://www.linkedin.com/in/eman-abdeen/) 
-📫 Email: eng.eman77@gmail.com
+<img src="https://simpleicons.org/icons/linkedin.svg" width="22"/> **LinkedIn:** [eman-abdeen](https://www.linkedin.com/in/eman-abdeen/)  
+✉️ **Email:** eng.eman77@gmail.com
   
 ---
 
