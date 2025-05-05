@@ -58,11 +58,11 @@ An enterprise-grade e-commerce platform developed as part of a Microsoft Enterpr
 A full-stack e-commerce web application with RESTful APIs and responsive UI.  
 
 **Key Features:**  
-- 🌐 Web interface (Thymeleaf) and RESTful API endpoints  
-- 📦 CRUD operations for Products, Categories, Customers, and Orders  
-- 🔍 Advanced querying (price filtering, customer search by email domain)  
-- 🛒 Real-time order processing with stock validation  
-- 🗄 MySQL integration with JPA/Hibernate  
+- Web interface (Thymeleaf) and RESTful API endpoints  
+- CRUD operations for Products, Categories, Customers, and Orders  
+- Advanced querying (price filtering, customer search by email domain)  
+- Real-time order processing with stock validation  
+- MySQL integration with JPA/Hibernate  
 
 ---
 
