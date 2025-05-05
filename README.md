@@ -1,7 +1,7 @@
 # Eman Abdeen | Software Developer Portfolio
 
 ## 👋 About Me  
-I'm a **High Distinction graduate** in Computer Programming and Analysis from Conestoga College, with **2 years of professional experience** bridging software development and quality assurance. I have hands-on experience building **automated testing frameworks (C#, Selenium)**, developing **mobile apps**, and delivering **enterprise web solutions** using **ASP.NET** and **Spring Boot**.
+I'm a **High Distinction graduate** in Computer Programming and Analysis from Conestoga College, with **2 years of professional experience** bridging software development and quality assurance. I have hands-on experience building **automated testing frameworks (C#, Selenium)**, developing **mobile apps**  using **Java and Firebase**, and delivering **enterprise web solutions** using **ASP.NET** and **Spring Boot**.
 
 🔗 **Connect with me:**  
 <img src="https://img.icons8.com/fluent/24/000000/linkedin.png" alt="LinkedIn" width="22"/> **LinkedIn:** [linkedin.com/in/eman-abdeen](https://www.linkedin.com/in/eman-abdeen/)    
