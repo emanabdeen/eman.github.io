@@ -18,6 +18,30 @@ I'm a **High Distinction graduate** in Computer Programming and Analysis from Co
 
 ---
 
+## 🌟 Achievements
+
+### Professional Growth
+- Received **"Exceptional" performance ratings** across multiple co-op terms
+- Quickly mastered new technologies and adapted to evolving project requirements
+- Worked independently with minimal supervision while maintaining high-quality standards
+
+### Team Contributions
+- Actively participated in **Agile ceremonies** (standups, sprint planning, retrospectives)
+- Improved team processes by documenting defects clearly and suggesting workflow optimizations
+- Collaborated effectively with cross-functional teams to refine requirements and deliver solutions
+
+### Leadership & Soft Skills
+- Mentored peers and shared knowledge to uplift team capabilities
+- Communicated technical concepts clearly to both technical and non-technical stakeholders
+- Recognized for constructive feedback and positive team contributions
+
+> *"Eman's ability to own projects end-to-end with minimal supervision is remarkable. She consistently delivers high-quality work while identifying opportunities for improvement."* - Director of Engineering
+
+### 📄 Supervisor Evaluations
+- [Co-op – Supervisor Evaluation_sample1 (PDF)](./assets/reviews/sample1_review.pdf)
+- [Co-op Term - Supervisor Evaluation_ sample2 (PDF)](./assets/reviews/sample2_review.pdf)
+
+
 ## 📂 Featured Projects  
 
 ### 📱 VitaVault – *Mobile Health Management App*  
