@@ -39,8 +39,9 @@ I'm a **High Distinction graduate** in Computer Programming and Analysis from Co
 
 ### 📄 Supervisor Evaluations
 - [Co-op – Supervisor Evaluation_sample1 (PDF)](./assets/reviews/sample1_review.pdf)
-- [Co-op Term - Supervisor Evaluation_ sample2 (PDF)](./assets/reviews/sample2_review.pdf)
+- [Co-op - Supervisor Evaluation_ sample2 (PDF)](./assets/reviews/sample2_review.pdf)
 
+---
 
 ## 📂 Featured Projects  
 
